@@ -1,20 +1,79 @@
-# 💫 About Me:
-Hi, I'm Niraj. I am passionate about web development, <br>Python programming, and technology. <br>working in HCLtech.<br>I enjoy building websites, learning new tools, and <br>working on projects that solve real-world problems. <br>Currently exploring AI, cybersecurity, and software development.
 
+# 👋 Hi, I'm Niraj Charpe
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nirajcharpe) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/niraj_.768) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niraj-charpe-7a2655355/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nirajcharpe48@gmail.com) 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C63FF&height=220&section=header&text=Niraj%20Charpe&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=plastic&logo=sketch&logoColor=black) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=plastic&logo=bitbucket&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=niraj7780&theme=holi&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=niraj7780&theme=holi&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=niraj7780&theme=holi&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=2500&pause=800&center=true&vCenter=true&width=900&lines=Software+Engineer+%40+HCLTech;Full+Stack+Developer;Python+Developer;Cloud+%7C+AWS+Learner;AI+%26+Cybersecurity+Enthusiast;Always+Learning+Something+New"/>
+</p>
 
----
-[![](https://komarev.com/ghpvc/?username=niraj7780&icon=3&color=0)](https://visitcount.itsvg.in)
+## 🚀 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 💼 Software Engineer at **HCLTech**
+- 💻 Passionate about Web Development, Python, Cloud & AI
+- 🌱 Learning **AWS, DevOps, Kubernetes, AI, Cybersecurity**
+- 🎯 Goal: Build scalable software and cloud solutions.
 
- 
+## 🌐 Connect
+
+- LinkedIn: https://www.linkedin.com/in/niraj-charpe-7a2655355/
+- Instagram: https://instagram.com/niraj_.768
+- Discord: https://discord.gg/nirajcharpe
+- Email: nirajcharpe48@gmail.com
+
+## 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,react,nextjs,nodejs,express,flask,fastapi,firebase,mongodb,mysql,aws,docker,linux,git,github,vscode,vercel,render&perline=8"/>
+</p>
+
+## 🏆 GitHub Trophy
+
+![](https://github-profile-trophy.vercel.app/?username=niraj7780&theme=algolia)
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=niraj7780&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=niraj7780&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=niraj7780&layout=compact&theme=tokyonight)
+
+## 📈 Activity Graph
+
+[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=niraj7780&theme=tokyo-night)](https://github.com/niraj7780)
+
+## 🐍 Snake Animation
+
+![Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+## 🚀 Featured Projects
+
+| Project | Tech |
+|---|---|
+| E-commerce | MERN |
+| AI Assistant | Python |
+| Portfolio | Next.js |
+| Cloud APIs | Flask + AWS |
+
+## 🎯 Goals
+
+- Master System Design
+- Master AWS
+- Learn Kubernetes
+- Build SaaS
+- Contribute to Open Source
+
+## 💡 Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+## 👀 Visitors
+
+![](https://komarev.com/ghpvc/?username=niraj7780&style=for-the-badge)
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6C63FF&height=120&section=footer"/>
+</p>

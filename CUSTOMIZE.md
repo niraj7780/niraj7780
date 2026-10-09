@@ -6,17 +6,24 @@ This file lists **all placeholders** left in [`README.md`](./README.md), what ea
 
 ---
 
-## 1. Contact placeholders (section: Connect With Me)
+## 1. Contact links (section: Connect With Me)
+
+**Already filled in with your real links — nothing to do:**
+
+- ✅ GitHub → `https://github.com/niraj7780`
+- ✅ LinkedIn → `https://www.linkedin.com/in/niraj-charpe-7a2655355/`
+- ✅ Email → `nirajcharpe48@gmail.com`
+- ✅ Discord → `https://discord.gg/nirajcharpe`
+
+> 📵 **Never** add your phone number, employee ID, client names or any internal company details to this file.
+> ⚠️ Your email address is shown publicly. If you would rather keep it private, replace the `mailto:` badge with your LinkedIn or portfolio link.
+
+**Still to fill in:**
 
 | Placeholder | Appears in | Replace with | Example |
 |---|---|---|---|
-| `YOUR_LINKEDIN_URL` | `<a href="YOUR_LINKEDIN_URL">` | Your full LinkedIn profile URL | `https://www.linkedin.com/in/your-name-123456/` |
-| `YOUR_PROFESSIONAL_EMAIL` | `<a href="mailto:YOUR_PROFESSIONAL_EMAIL">` | Your professional email address only (no `mailto:` prefix, it is already in the code) | `niraj.charpe@example.com` |
 | `YOUR_PORTFOLIO_URL` | `<a href="YOUR_PORTFOLIO_URL">` | Your portfolio / personal website | `https://your-portfolio.example` |
 | `YOUR_RESUME_URL` | `<a href="YOUR_RESUME_URL">` | A public link to your résumé (Google Drive, GitHub repo, or website page) | `https://example.com/resume.pdf` |
-
-> ✅ Your GitHub link is already real and correct: `https://github.com/niraj7780`.
-> 📵 **Never** add your phone number, employee ID, client names or any internal company details to this file.
 
 ---
 
@@ -91,7 +98,9 @@ Replace the "Screenshot & demo: coming soon" note with:
 ## 4. Already verified — do not change
 
 - **GitHub username** `niraj7780` is used in **all** widget URLs (stats, top languages, streak, trophies, contribution graph, visitor counter, followers, stars) and in your profile link.
-- Every image/badge URL in `README.md` was requested live and returned **HTTP 200**, except:
+- Every image/badge URL in `README.md` was requested live: **67 of 70 returned HTTP 200**. The three exceptions are normal:
+  - `discord.gg/nirajcharpe` → **301 redirect** (standard for Discord invite links, works in a browser)
+  - `linkedin.com/in/niraj-charpe-7a2655355` → **999** (LinkedIn blocks automated requests; the link itself is correct)
   - `github-profile-trophy.vercel.app` → currently returns **402** (the trophy service is rate-limited today). It is placed inside a collapsible details block with descriptive alt text, so the README stays clean if it does not load. Re-check later with:
     `curl -s -o /dev/null -w "%{http_code}\n" "https://github-profile-trophy.vercel.app/?username=niraj7780"`
 - Contribution activity graph uses `ghchart.rshah.org` (verified working) instead of the activity-graph service, which is returning 402.

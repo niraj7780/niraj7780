@@ -1,309 +1,342 @@
 <!--
   ============================================================================
   NIRAJ CHARPE — GitHub Profile README
+  https://github.com/niraj7780
   ============================================================================
-  BEFORE YOU PUSH:
-    1. GitHub username is set to  niraj7780  everywhere (stats, streak,
-       trophies, activity graph, badges, visitor counter, Connect section) —
-       confirmed from this repository's remote origin. Update it only if your
-       GitHub username ever changes.
-    2. Fill in the Connect placeholders (LinkedIn, email, npm, portfolio).
-    3. Add your demo GIF link and your project repository links.
-  NOTE: All animations on this page come from SVG / image services that
-  GitHub renders natively (typing SVG, waving banner, badge cards).
-  No JavaScript, iframes, CSS files or custom widgets are used.
+  Built with GitHub-supported elements only:
+    animated SVG header + typing SVG, shields.io badges, dynamic GitHub stat
+    cards, animated contribution chart and collapsible details blocks.
+  No JavaScript, iframes, external CSS or custom interactive components.
+
+  REMAINING PLACEHOLDERS (see CUSTOMIZE.md for the full list):
+    YOUR_LINKEDIN_URL · YOUR_PROFESSIONAL_EMAIL · YOUR_PORTFOLIO_URL
+    YOUR_RESUME_URL · YOUR_REPOSITORY_URL · screenshot / demo GIF
   ============================================================================
 -->
 
+<!-- ============================ 1. HEADER ============================ -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1128,50:0057B8,100:00E5FF&height=200&section=header&text=Niraj%20Charpe&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=SAP%20ABAP%20Learner%20%7C%20Developer%20in%20Progress&descSize=20&descAlign=50" alt="Animated developer banner: Niraj Charpe — SAP ABAP Learner and Developer in Progress, on a blue, cyan and purple gradient" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1128,50:0057B8,100:00E5FF&height=200&section=header&text=Niraj%20Charpe&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=IT%20Intern%20at%20HCLTech%20%7C%20Developer%20in%20Progress&descSize=20&descAlign=50" alt="Animated developer banner: Niraj Charpe — IT Intern at HCLTech and Developer in Progress, on a blue, cyan and purple gradient" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Niraj Charpe</h1>
+<h1 align="center">Hi, I'm Niraj Charpe 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=00D9FF,7C4DFF&center=true&vCenter=true&width=680&hide_border=true&lines=Hi,+I%27m+Niraj+Charpe+%F0%9F%91%8B;HCLTech+Intern+%7C+SAP+ABAP+Learner;AI+and+Programming+Enthusiast;Learning,+Building+and+Growing+Every+Day" alt="Animated typing introduction: Hi, I'm Niraj Charpe. HCLTech Intern and SAP ABAP Learner. AI and Programming Enthusiast. Learning, Building and Growing Every Day." width="680" />
-</p>
-
-<p align="center">
-  <img alt="Current role: HCLTech Intern" src="https://img.shields.io/badge/Role-HCLTech_Intern-0A66C2?style=flat-square&labelColor=161B22" />
-  <img alt="Office location: Noida, India" src="https://img.shields.io/badge/Location-Noida%2C_India-7C3AED?style=flat-square&labelColor=161B22" />
-  <img alt="Currently learning SAP ABAP" src="https://img.shields.io/badge/Learning-SAP_ABAP-00B8D9?style=flat-square&labelColor=161B22&logo=sap&logoColor=white" />
-  <img alt="Publishing CLI projects under the @nirajcharpe npm scope" src="https://img.shields.io/badge/npm-@nirajcharpe-CB3837?style=flat-square&labelColor=161B22&logo=npm&logoColor=white" />
-  <img alt="Exploring artificial intelligence and automation" src="https://img.shields.io/badge/Exploring-AI_and_Automation-A855F7?style=flat-square&labelColor=161B22" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2600&pause=700&color=00D9FF,7C4DFF&center=true&vCenter=true&width=700&hide_border=true&lines=Hi,+I%27m+Niraj+Charpe;IT+Intern+at+HCLTech;SAP+ABAP+and+Python+Learner;SQL+and+Database+Enthusiast;Exploring+AI+and+Automation;Learning,+Building+and+Improving+Every+Day" alt="Animated typing introduction: Hi, I'm Niraj Charpe. IT Intern at HCLTech. SAP ABAP and Python Learner. SQL and Database Enthusiast. Exploring AI and Automation. Learning, Building and Improving Every Day." width="700" />
 </p>
 
 <p align="center">
-  <sub>🚀 Early-career developer · Intern at HCLTech · Noida, India · Curious, consistent and always learning</sub>
+  <img alt="Current role: IT Intern at HCLTech" src="https://img.shields.io/badge/Role-IT_Intern_at_HCLTech-0A66C2?style=flat-square&labelColor=161B22" />
+  <img alt="Training program: HCL TechBee, completed" src="https://img.shields.io/badge/Training-HCL_TechBee_program-7C3AED?style=flat-square&labelColor=161B22" />
+  <img alt="Location: Noida, India" src="https://img.shields.io/badge/Location-Noida%2C_India-00B8D9?style=flat-square&labelColor=161B22" />
+  <img alt="Learning SAP ABAP fundamentals" src="https://img.shields.io/badge/Learning-SAP_ABAP-0FAAFF?style=flat-square&labelColor=161B22&logo=sap&logoColor=white" />
+  <img alt="Practising Python development" src="https://img.shields.io/badge/Practising-Python-3776AB?style=flat-square&labelColor=161B22&logo=python&logoColor=white" />
+</p>
+
+<!-- ======================= 2. SHORT INTRODUCTION ======================= -->
+
+<p align="center">
+  <b>Early-career IT intern · developer in progress · focused on code, databases and SAP</b>
+</p>
+
+<p align="center">
+  <sub>I write Python, work with SQL Server and I am building my foundation in SAP ABAP.<br />
+  I learn by building small, practical projects and by practising every day.</sub>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I am **Niraj Charpe**, an early-career developer currently working as an **Intern at HCLTech** in **Noida, India**. I joined the **HCL Early Career Program** right after completing **Class 12**, and that decision started my professional technology journey earlier than most.
+- 🎓 I completed **Class 12 (Higher Secondary Education)** and then joined the **HCL TechBee IT Training Program**.
+- 🛠️ I completed approximately **10 months of technical and corporate training** covering C, C++, Python, DBMS and RDBMS, SQL and SQL Server, SAP ABAP fundamentals, Object-Oriented Programming and software development fundamentals.
+- 💼 I am currently an **IT Intern at HCLTech**, transitioning from structured training into **project-based work**.
+- 💻 I enjoy **coding**: building command-line applications, writing modular code, handling errors properly and working with databases.
+- 🗄️ My main project so far is a **Python + SQL Server Bank Management System** — a training project that taught me how application logic and a database work together.
+- 🤖 I am exploring **Artificial Intelligence, automation and modern development tools**, and I keep reading about new technologies.
+- 🗣️ I am continuously improving my **English communication, professional confidence and body language**.
 
-- 🎓 **Where I started** — After Class 12, I joined the HCL Early Career Program and moved straight into professional technology training.
-- 🧩 **What I am building now** — I am developing my **SAP ABAP** and enterprise technology skills: reports, transaction codes, internal tables, debugging, Smart Forms, Web Dynpro and CDS Views.
-- 🤖 **What excites me** — **Artificial Intelligence, programming, automation, CLI tools, npm packages** and new technologies. I like understanding how things work and then building small tools with them.
-- 🛠️ **What I have shipped** — A terminal-based number guessing game published as an npm package under the **`@nirajcharpe`** scope.
-- 🗣️ **What I am improving** — My **English communication, professional confidence and body language**, so I can present ideas clearly and collaborate better every day.
-- 📚 **Outside of work** — Reading and learning about new technologies.
-
-> 🎯 **Career objective:** To become a skilled software developer with strong knowledge of **SAP ABAP, AI, automation and modern software development**.
+> 🎯 **Goal:** to grow into a capable software developer with strong knowledge of **SAP technologies, Python, databases, AI and automation**.
 
 ---
 
-## 🧭 My Developer Journey
+## 📝 Professional Summary
 
-A quick visual timeline of where I started, where I am now, and where I am heading.
+I am an early-career IT professional currently working as an **Intern at HCLTech** after completing the **HCL TechBee training program**. I have developed **foundational knowledge** of SAP ABAP, Python, SQL Server, C, C++, DBMS, Object-Oriented Programming and software development fundamentals.
+
+Through structured training and assignments, I have **practised** Python development, SQL Server database connectivity, CRUD operations, modular programming, exception handling, input validation and Object-Oriented Programming.
+
+I am **interested in** software development, SAP technologies, databases, Artificial Intelligence, automation and modern development tools. I enjoy learning about new technologies and continuously improving my problem-solving, communication and professional skills.
+
+<sub>📌 Honest status: I am <b>learning</b>, <b>practising</b> and <b>building skills</b> — I do not describe myself as an expert or a senior developer.</sub>
+
+---
+
+## 🧭 Developer Journey
+
+### ✅ Completed milestones
+
+| # | Milestone |
+|---|---|
+| 1 | Completed **Class 12** — Higher Secondary Education |
+| 2 | Joined the **HCL TechBee IT Training Program** |
+| 3 | Completed approximately **10 months of technical and corporate training** |
+| 4 | Learned **programming fundamentals in C, C++ and Python** |
+| 5 | Learned **DBMS, RDBMS, SQL and SQL Server** fundamentals |
+| 6 | Built a **Python and SQL Server Bank Management System** (training project) |
+| 7 | Started learning **SAP ABAP fundamentals** |
+| 8 | Became an **IT Intern at HCLTech** |
+
+### 🔵 Currently in progress
+
+- 🔄 Transitioning from structured training into **project-based work**
+- 🔄 Continuing to explore **SAP, software development, AI and automation**
+- 🔄 Writing code regularly in **Python and SQL**, and using **Git and GitHub** more consistently
+
+### 🎯 Future goals
+
+- 🏁 Grow into a **capable and confident software developer**
+- 🏁 Contribute effectively to **enterprise software projects**
+- 🏁 Combine **SAP knowledge with AI and automation**
+
+---
+
+## 🎯 What I'm Currently Focused On
 
 <table>
   <tr>
-    <td colspan="3"><b>✅ Completed milestones</b></td>
+    <td width="50%"><b>📘 Strengthening SAP ABAP fundamentals</b><br /><sub>Reports, syntax and the basics an ABAP developer uses daily.</sub></td>
+    <td width="50%"><b>🐍 Improving Python programming</b><br /><sub>Cleaner logic, modular code and better error handling.</sub></td>
   </tr>
   <tr>
-    <td align="center" width="40">1️⃣</td>
-    <td>Completed <b>Class 12</b></td>
-    <td align="center" width="110"><sub>✅ Done</sub></td>
+    <td width="50%"><b>🗄️ Practising SQL and SQL Server</b><br /><sub>Queries, joins, aggregations, stored procedures and views.</sub></td>
+    <td width="50%"><b>🏢 Understanding enterprise application development</b><br /><sub>How structured, data-driven applications are built and maintained.</sub></td>
   </tr>
   <tr>
-    <td align="center">2️⃣</td>
-    <td>Joined the <b>HCL Early Career Program</b></td>
-    <td align="center"><sub>✅ Done</sub></td>
+    <td width="50%"><b>🧩 Developing clean and modular code</b><br /><sub>Readable functions, input validation and consistent structure.</sub></td>
+    <td width="50%"><b>🔀 Using Git and GitHub more consistently</b><br /><sub>Regular commits, clear history and confident collaboration.</sub></td>
   </tr>
   <tr>
-    <td align="center">3️⃣</td>
-    <td>Started <b>professional technology training</b></td>
-    <td align="center"><sub>✅ Done</sub></td>
+    <td width="50%"><b>🤖 Exploring Artificial Intelligence and automation</b><br /><sub>Understanding where AI fits into real development workflows.</sub></td>
+    <td width="50%"><b>🗣️ Improving English communication</b><br /><sub>Speaking and writing clearly in professional settings.</sub></td>
   </tr>
   <tr>
-    <td align="center">4️⃣</td>
-    <td>Began learning <b>SAP ABAP</b> — reports, transaction codes and internal tables</td>
-    <td align="center"><sub>✅ Started</sub></td>
-  </tr>
-  <tr>
-    <td align="center">5️⃣</td>
-    <td>Received a <b>project allocation related to the NBCUniversal project</b> <sub>(current association)</sub></td>
-    <td align="center"><sub>✅ Done</sub></td>
-  </tr>
-  <tr>
-    <td align="center">6️⃣</td>
-    <td>Started creating personal <b>terminal and npm projects</b></td>
-    <td align="center"><sub>✅ Done</sub></td>
-  </tr>
-  <tr>
-    <td colspan="3"><b>🔵 Currently in progress</b></td>
-  </tr>
-  <tr>
-    <td align="center">🔁</td>
-    <td>Practising <b>SAP ABAP</b> and modern ABAP concepts daily</td>
-    <td align="center"><sub>🔵 Now</sub></td>
-  </tr>
-  <tr>
-    <td align="center">🤖</td>
-    <td>Exploring <b>AI, automation and modern development tools</b></td>
-    <td align="center"><sub>🔵 Now</sub></td>
-  </tr>
-  <tr>
-    <td align="center">🗣️</td>
-    <td>Improving <b>English communication, confidence and body language</b></td>
-    <td align="center"><sub>🔵 Now</sub></td>
-  </tr>
-  <tr>
-    <td colspan="3"><b>🎯 Future goal</b></td>
-  </tr>
-  <tr>
-    <td align="center">🏁</td>
-    <td>Become a <b>strong SAP and software development professional</b></td>
-    <td align="center"><sub>🎯 Next</sub></td>
+    <td width="50%"><b>🤝 Improving professional confidence and body language</b><br /><sub>Presence, posture and clarity in meetings and discussions.</sub></td>
+    <td width="50%"><b>🛠️ Building practical learning projects</b><br /><sub>Small, complete applications that strengthen real coding skills.</sub></td>
   </tr>
 </table>
 
 ---
 
-## 🎯 Current Focus
+## 🛠️ Technical Skills
 
-<table>
-  <tr>
-    <td width="50%">
-      <b>📘 Learning SAP ABAP</b><br />
-      <sub>Reports, transaction codes, internal tables, debugging and modern ABAP syntax.</sub>
-    </td>
-    <td width="50%">
-      <b>🌐 Understanding SAP S/4HANA & SAP MM</b><br />
-      <sub>Learning how enterprise data, materials and business processes fit together.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <b>💻 Practising programming fundamentals</b><br />
-      <sub>JavaScript, problem solving, clean logic and readable code.</sub>
-    </td>
-    <td width="50%">
-      <b>🤖 Exploring AI-assisted development</b><br />
-      <sub>Using AI tools and vibe coding to learn faster and build smarter.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <b>⌨️ Building command-line & npm projects</b><br />
-      <sub>Tiny, useful terminal tools that I can publish and share.</sub>
-    </td>
-    <td width="50%">
-      <b>🗣️ Improving professional communication</b><br />
-      <sub>Spoken and written English, professional confidence and body language.</sub>
-    </td>
-  </tr>
-</table>
+> 💡 Every badge below shows my **honest** level — `learning`, `practising` or `fundamentals`. No skill bars, no percentages, no inflated labels.
 
----
+### 💻 Programming Languages
 
-## 🛠️ Technology Stack
+![Practising Python](https://img.shields.io/badge/Python-practising-3776AB?style=flat-square&labelColor=161B22&logo=python&logoColor=white)
+![C fundamentals](https://img.shields.io/badge/C-fundamentals-A8B9CC?style=flat-square&labelColor=161B22&logo=c&logoColor=black)
+![C++ fundamentals](https://img.shields.io/badge/C%2B%2B-fundamentals-00599C?style=flat-square&labelColor=161B22&logo=cplusplus&logoColor=white)
 
-> 💡 Everything below is labelled honestly: **learning**, **practising** or **exploring** — not "expert".
+### ☁️ SAP
 
-### ☁️ SAP & Enterprise — *learning*
+![SAP ABAP fundamentals](https://img.shields.io/badge/SAP_ABAP-fundamentals-0FAAFF?style=flat-square&labelColor=161B22&logo=sap&logoColor=white)
 
-![Learning SAP ABAP](https://img.shields.io/badge/SAP_ABAP-learning-0FAAFF?style=flat-square&labelColor=161B22&logo=sap&logoColor=white)
-![Learning SAP S/4HANA](https://img.shields.io/badge/SAP_S%2F4HANA-learning-0067B8?style=flat-square&labelColor=161B22&logo=sap&logoColor=white)
-![Learning SAP MM](https://img.shields.io/badge/SAP_MM-learning-5C6BC0?style=flat-square&labelColor=161B22&logo=sap&logoColor=white)
-![Learning CDS Views](https://img.shields.io/badge/CDS_Views-learning-7C3AED?style=flat-square&labelColor=161B22&logo=sap&logoColor=white)
-![Learning Smart Forms](https://img.shields.io/badge/Smart_Forms-learning-00B8D9?style=flat-square&labelColor=161B22&logo=sap&logoColor=white)
-![Learning Web Dynpro](https://img.shields.io/badge/Web_Dynpro-learning-4C6EF5?style=flat-square&labelColor=161B22&logo=sap&logoColor=white)
-![Practising SAP debugging](https://img.shields.io/badge/SAP_Debugging-practising-6610F2?style=flat-square&labelColor=161B22&logo=sap&logoColor=white)
+### 🗄️ Databases
 
-### 💻 Programming & Development — *practising*
+![SQL practising](https://img.shields.io/badge/SQL-practising-4479A1?style=flat-square&labelColor=161B22)
+![SQL Server practising](https://img.shields.io/badge/SQL_Server-practising-CC2927?style=flat-square&labelColor=161B22)
+![DBMS learning](https://img.shields.io/badge/DBMS-learning-7C3AED?style=flat-square&labelColor=161B22)
+![RDBMS learning](https://img.shields.io/badge/RDBMS-learning-6D28D9?style=flat-square&labelColor=161B22)
+![CRUD operations practising](https://img.shields.io/badge/CRUD_operations-practising-00B8D9?style=flat-square&labelColor=161B22)
+![Joins practising](https://img.shields.io/badge/Joins-practising-4C6EF5?style=flat-square&labelColor=161B22)
+![Aggregations practising](https://img.shields.io/badge/Aggregations-practising-3B82F6?style=flat-square&labelColor=161B22)
+![Constraints practising](https://img.shields.io/badge/Constraints-practising-8B5CF6?style=flat-square&labelColor=161B22)
+![Stored procedures practising](https://img.shields.io/badge/Stored_procedures-practising-A855F7?style=flat-square&labelColor=161B22)
+![Views practising](https://img.shields.io/badge/Views-practising-EC4899?style=flat-square&labelColor=161B22)
+![Database connectivity practising](https://img.shields.io/badge/Database_connectivity-practising-0067B8?style=flat-square&labelColor=161B22)
 
-![Practising JavaScript](https://img.shields.io/badge/JavaScript-practising-F7DF1E?style=flat-square&labelColor=161B22&logo=javascript&logoColor=black)
-![Practising Node.js](https://img.shields.io/badge/Node.js-practising-339933?style=flat-square&labelColor=161B22&logo=nodedotjs&logoColor=white)
-![Working with npm](https://img.shields.io/badge/npm-practising-CB3837?style=flat-square&labelColor=161B22&logo=npm&logoColor=white)
-![Practising Git](https://img.shields.io/badge/Git-practising-F05032?style=flat-square&labelColor=161B22&logo=git&logoColor=white)
-![Learning GitHub](https://img.shields.io/badge/GitHub-learning-8B949E?style=flat-square&labelColor=161B22&logo=github&logoColor=white)
-![Building command-line tools](https://img.shields.io/badge/Command_line-tools-334155?style=flat-square&labelColor=161B22)
+### 🧠 Programming Concepts
 
-### 🤖 Exploring
+![Object-Oriented Programming](https://img.shields.io/badge/Object_Oriented_Programming-practising-7C3AED?style=flat-square&labelColor=161B22)
+![Classes and objects](https://img.shields.io/badge/Classes_and_objects-practising-6366F1?style=flat-square&labelColor=161B22)
+![Constructors](https://img.shields.io/badge/Constructors-practising-00B8D9?style=flat-square&labelColor=161B22)
+![Inheritance](https://img.shields.io/badge/Inheritance-practising-4C6EF5?style=flat-square&labelColor=161B22)
+![Encapsulation](https://img.shields.io/badge/Encapsulation-practising-0067B8?style=flat-square&labelColor=161B22)
+![Polymorphism](https://img.shields.io/badge/Polymorphism-practising-8B5CF6?style=flat-square&labelColor=161B22)
+![Exception handling](https://img.shields.io/badge/Exception_handling-practising-A855F7?style=flat-square&labelColor=161B22)
+![Modular programming](https://img.shields.io/badge/Modular_programming-practising-22C55E?style=flat-square&labelColor=161B22)
+![Input validation](https://img.shields.io/badge/Input_validation-practising-F59E0B?style=flat-square&labelColor=161B22)
+![Problem-solving](https://img.shields.io/badge/Problem_solving-practising-EC4899?style=flat-square&labelColor=161B22)
 
-![Exploring Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-exploring-7C3AED?style=flat-square&labelColor=161B22)
-![Exploring Generative AI](https://img.shields.io/badge/Generative_AI-exploring-00B8D9?style=flat-square&labelColor=161B22)
-![Exploring Automation](https://img.shields.io/badge/Automation-exploring-22C55E?style=flat-square&labelColor=161B22)
-![Exploring AI-assisted coding](https://img.shields.io/badge/AI_assisted_coding-exploring-A855F7?style=flat-square&labelColor=161B22)
-![Exploring prompt engineering](https://img.shields.io/badge/Prompt_engineering-exploring-EC4899?style=flat-square&labelColor=161B22)
+### 🧰 Tools and Technologies
+
+![Git](https://img.shields.io/badge/Git-practising-F05032?style=flat-square&labelColor=161B22&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-practising-8B949E?style=flat-square&labelColor=161B22&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-practising-007ACC?style=flat-square&labelColor=161B22)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-practising-217346?style=flat-square&labelColor=161B22)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-practising-2B579A?style=flat-square&labelColor=161B22)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-practising-D24726?style=flat-square&labelColor=161B22)
+![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-practising-0078D4?style=flat-square&labelColor=161B22)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-practising-34A853?style=flat-square&labelColor=161B22&logo=googlesheets&logoColor=white)
 
 <details>
-  <summary><b>ℹ️ Why does every badge say "learning" or "exploring"?</b></summary>
+  <summary><b>ℹ️ How I rate my own skills</b></summary>
   <br />
-  <p>Because that is the honest status. I am an early-career intern documenting a real learning journey — I would rather show accurate progress than impressive-looking labels. Skills here will be updated as I gain real, verifiable practice with them.</p>
+  <p><code>fundamentals</code> = learned during structured training and still consolidating · <code>learning</code> = currently studying · <code>practising</code> = using regularly in assignments and projects.</p>
+  <p>I update these labels as my real experience grows. Nothing here is a certification or a claim of professional mastery.</p>
 </details>
 
 ---
 
 ## ⭐ Featured Project
 
-### 🎮 Niraj Number Game
+### 🏦 Bank Management System
 
 <p align="center">
-  <img alt="npm package version for @nirajcharpe/niraj-number-game" src="https://img.shields.io/npm/v/@nirajcharpe/niraj-number-game?style=flat-square&labelColor=161B22&color=CB3837&logo=npm&logoColor=white" />
-  <img alt="Package type: terminal-based number guessing game" src="https://img.shields.io/badge/Type-Terminal_number_guessing_game-00B8D9?style=flat-square&labelColor=161B22" />
-  <img alt="Package scope: @nirajcharpe" src="https://img.shields.io/badge/Scope-@nirajcharpe-A855F7?style=flat-square&labelColor=161B22" />
-  <img alt="Requires Node.js 18 or newer" src="https://img.shields.io/badge/Node-%3E%3D18-339933?style=flat-square&labelColor=161B22&logo=nodedotjs&logoColor=white" />
+  <img alt="Built with Python" src="https://img.shields.io/badge/Built_with-Python-3776AB?style=flat-square&labelColor=161B22&logo=python&logoColor=white" />
+  <img alt="Database: Microsoft SQL Server" src="https://img.shields.io/badge/Database-SQL_Server-CC2927?style=flat-square&labelColor=161B22" />
+  <img alt="Type: command-line training project" src="https://img.shields.io/badge/Type-Command_line_training_project-00B8D9?style=flat-square&labelColor=161B22" />
+  <img alt="Status: training project, not production software" src="https://img.shields.io/badge/Status-Training_project-A855F7?style=flat-square&labelColor=161B22" />
 </p>
 
-A **beginner-friendly command-line game** published as an npm package under the **`@nirajcharpe`** scope. The computer picks a random number, and the player keeps guessing until they find it — with helpful too-high / too-low hints along the way.
+A **command-line-based training project** created to manage common banking operations. The application uses **Python** for the application logic and **SQL Server** for storing and managing data.
 
-**▶️ Run it instantly** (the executable command below is verified against the published package `@nirajcharpe/niraj-number-game@1.0.0`):
+> ⚠️ This is a **training project** built for learning. It is **not** production-ready, not commercially deployed and not used by real banking customers. No real client, customer or company data is involved.
+
+**Key features**
+
+- 👥 Manager, employee and customer **user roles**
+- 🔐 **Secure login system**
+- 👤 Customer **account creation**
+- 🗂️ **Account management**
+- 💰 **Deposit** operations
+- 💸 **Withdrawal** operations
+- 🔁 **Fund transfers** between accounts
+- ✅ **Balance validation**
+- 📒 **Transaction history**
+- 🧾 **Mini statements**
+- 🗄️ **SQL Server database integration**
+- 🧩 **Modular Python programming**
+- 🛡️ **Exception handling**
+- ✍️ **Input validation**
+
+| Resource | Link |
+|---|---|
+| 🗂️ Repository | `YOUR_REPOSITORY_URL` |
+| 🖼️ Screenshot | `YOUR_SCREENSHOT_URL` |
+| 🎬 Demo GIF | `YOUR_DEMO_GIF_URL` |
+
+<p align="center">
+  <!-- 👉 SCREENSHOT / DEMO GIF PLACEHOLDER
+       When you have a recording, replace the note below with:
+       <img src="YOUR_SCREENSHOT_URL" alt="Screenshot of the Bank Management System command-line interface showing a login prompt" width="700" />
+  -->
+  <sub>🖼️ <b>Screenshot &amp; demo:</b> <i>coming soon</i> — add a terminal recording of the Bank Management System here.</sub>
+</p>
+
+**▶️ Installation instructions** — _placeholder, replace with your real steps:_
 
 ```bash
-npx @nirajcharpe/niraj-number-game
+# 1. Clone the repository
+#    git clone YOUR_REPOSITORY_URL
+# 2. Install the Python dependencies
+#    pip install -r requirements.txt
+# 3. Run the application
+#    python YOUR_ENTRY_FILE.py
 ```
 
-| Link | URL |
-|---|---|
-| 📦 npm package | https://www.npmjs.com/package/@nirajcharpe/niraj-number-game |
-| 🗂️ GitHub repository | https://github.com/niraj7780/niraj-number-game |
-| 🛠️ Global install | `npm install -g @nirajcharpe/niraj-number-game` |
+**🗄️ Database setup instructions** — _placeholder, replace with your real steps:_
 
-<p align="center">
-  <!-- 👉 DEMO GIF PLACEHOLDER
-       Replace the commented line below with your own recording, e.g.
-       <img src="https://raw.githubusercontent.com/niraj7780/niraj-number-game/main/demo.gif" alt="Screen recording of the Niraj Number Game being played in a terminal" width="700" />
-  -->
-  <sub>🎬 <b>Demo GIF:</b> <i>coming soon</i> — replace this note with a short screen recording of the game in your terminal.</sub>
-</p>
-
-**Skills demonstrated**
-
-- ✅ JavaScript fundamentals
-- ✅ Node.js CLI development
-- ✅ npm package creation
-- ✅ Package publishing (scoped package)
-- ✅ Terminal interaction and input handling
-- ✅ Debugging and testing
+```sql
+-- Microsoft SQL Server setup
+-- 1. Create the database used by the application
+-- 2. Run your schema and seed-data script here
+-- 3. Update the connection details in the Python application
+```
 
 <details>
-<summary><b>▶️ More ways to run the game</b></summary>
-
-```bash
-# Play instantly (recommended)
-npx @nirajcharpe/niraj-number-game
-
-# Or install globally
-npm install -g @nirajcharpe/niraj-number-game
-niraj-number-game
-
-# Or clone the repository and run it locally
-git clone https://github.com/niraj7780/niraj-number-game.git
-cd niraj-number-game
-npm install
-npm start
-```
-
-<sub>Requires Node.js 18 or newer.</sub>
+  <summary><b>💡 What this project taught me</b></summary>
+  <br />
+  <ul>
+    <li>Connecting a <b>Python</b> application to a <b>SQL Server</b> database and running CRUD operations</li>
+    <li>Splitting a program into <b>modules and functions</b> instead of one long script</li>
+    <li>Validating user input before it ever reaches the database</li>
+    <li>Handling errors and unexpected input with <b>exception handling</b></li>
+    <li>Designing a simple <b>role-based login</b> flow for different user types</li>
+    <li>Thinking about data integrity: balances, transfers and transaction records</li>
+  </ul>
 </details>
 
 ---
 
-## 📚 SAP Learning Projects
+## 📚 Training and Learning
 
-> 🟡 **Status: planned / in progress.** Nothing below is presented as completed work. Each row will be marked ✅ and linked to a public repository only once that repository actually exists.
+### HCL TechBee IT Training Program — *completed*
 
-| # | Learning Project | What I want to practise | Status |
-|---|---|---|---|
-| 1 | Employee Information Report | Reports, selections and output formatting | 🟡 Planned |
-| 2 | Material Management Report | SAP MM concepts in an ABAP report | 🟡 Planned |
-| 3 | Internal Table Practice Program | Internal tables, loops and field symbols | 🟡 Planned |
-| 4 | Selection Screen Application | Parameters, select-options and events | 🟡 Planned |
-| 5 | Smart Form Practice Project | Form design with Smart Forms | 🟡 Planned |
-| 6 | ABAP Debugging Exercises | Breakpoints, watches and tracing data | 🟡 Planned |
-| 7 | CDS View Learning Project | CDS views and modern ABAP data modelling | 🟡 Planned |
+Approximately **10 months of technical and corporate training** after Class 12.
 
-<sub>📌 To publish a project: add its repository link in the table above and change its status to ✅ <i>Published</i>.</sub>
+<details>
+  <summary><b>📖 Full list of training topics</b></summary>
+  <br />
+  <p><b>Programming</b></p>
+  <ul>
+    <li>C programming</li>
+    <li>C++ programming</li>
+    <li>Python programming</li>
+    <li>Object-Oriented Programming</li>
+    <li>Modular programming</li>
+    <li>Software development fundamentals</li>
+    <li>Problem-solving</li>
+  </ul>
+  <p><b>Databases</b></p>
+  <ul>
+    <li>DBMS and RDBMS fundamentals</li>
+    <li>SQL and SQL Server</li>
+  </ul>
+  <p><b>SAP</b></p>
+  <ul>
+    <li>SAP ABAP fundamentals</li>
+  </ul>
+  <p><b>Professional skills</b></p>
+  <ul>
+    <li>Corporate communication</li>
+    <li>Professional workplace practices</li>
+  </ul>
+</details>
+
+### Currently learning
+
+- 🔹 **SAP ABAP** — deepening my fundamentals through daily practice
+- 🔹 **Python and SQL Server** — building small projects and writing queries regularly
+- 🔹 **Git and GitHub** — consistent commits and cleaner project history
+- 🔹 **AI and automation** — exploring how they fit into modern development
+- 🔹 **Communication skills** — English speaking, writing and presentation practice
+
+> 📌 I am currently **transitioning from structured training to project-based work**.
 
 ---
 
 ## 📊 GitHub Statistics
 
-<!-- ============================================================================
-     GitHub statistics widgets — the username below is set to  niraj7780
-     (matched from this repository's remote origin). If your GitHub username
-     ever changes, update it in every URL inside this section.
-     ========================================================================== -->
+<!-- All widgets below use the verified GitHub username: niraj7780 -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niraj7780&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub statistics for niraj7780 — live contribution and repository stats" width="440" />
+  <img src="https://github-readme-stats.vercel.app/api?username=niraj7780&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub statistics for niraj7780 — live repository, commit and contribution stats" width="440" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niraj7780&layout=compact&hide_border=true&theme=tokyonight" alt="Most-used languages for niraj7780 — live breakdown of repositories by language" width="320" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niraj7780&layout=compact&hide_border=true&theme=tokyonight" alt="Most-used programming languages for niraj7780 — live breakdown by repository" width="320" />
   &nbsp;
   <img src="https://streak-stats.demolab.com?user=niraj7780&hide_border=true&theme=tokyonight" alt="Contribution streak for niraj7780 — live current and longest streak" width="420" />
 </p>
 
 <details>
-  <summary><b>🏆 Profile trophies</b></summary>
+  <summary><b>🏆 GitHub profile trophies</b></summary>
   <br />
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=niraj7780&theme=onedark&no-frame=false&row=3&margin-w=8&column=4" alt="GitHub profile trophies for niraj7780 — live trophy collection" width="900" />
+    <img src="https://github-profile-trophy.vercel.app/?username=niraj7780&theme=onedark&no-frame=false&row=3&margin-w=8&column=4" alt="GitHub profile trophies for niraj7780 — live trophy collection; if this card fails to load, the trophy service is temporarily unavailable" width="900" />
   </p>
 </details>
 
@@ -316,140 +349,103 @@ npm start
 </details>
 
 <p align="center">
-  <sub>ℹ️ All five widgets above are wired to the GitHub username <code>niraj7780</code>. The trophy card occasionally hits a rate limit on its hosting service — if it ever fails to load, refresh the page; every image still carries alt text describing exactly what it should display.</sub>
+  <sub>ℹ️ Every widget above is loaded live for <code>niraj7780</code> — nothing on this page is hand-written or faked. If a third-party card ever fails to load, its alt text describes what should appear, and the rest of this README stays readable.</sub>
 </p>
 
 ---
 
-## 📖 Currently Learning
+## 💪 Core Strengths
 
 <table>
   <tr>
-    <td width="50%">
-      <kbd>Advanced ABAP concepts</kbd><br />
-      <sub>Writing cleaner, modern ABAP instead of only classic syntax.</sub>
-    </td>
-    <td width="50%">
-      <kbd>SAP development tools</kbd><br />
-      <sub>Getting comfortable with the tools an ABAP developer uses daily.</sub>
-    </td>
+    <td width="50%"><b>🧩 Problem-solving</b><br /><sub>Breaking a requirement into smaller, solvable steps.</sub></td>
+    <td width="50%"><b>🧮 Logical thinking</b><br /><sub>Structuring code and queries in a clear, step-by-step way.</sub></td>
   </tr>
   <tr>
-    <td width="50%">
-      <kbd>Clean coding practices</kbd><br />
-      <sub>Readable naming, small steps and code that is easy to debug.</sub>
-    </td>
-    <td width="50%">
-      <kbd>Git & GitHub workflows</kbd><br />
-      <sub>Commit habits, branches and publishing projects with confidence.</sub>
-    </td>
+    <td width="50%"><b>⚡ Quick learning</b><br /><sub>Picking up new tools, syntax and concepts efficiently.</sub></td>
+    <td width="50%"><b>🤝 Team collaboration</b><br /><sub>Working well with peers during training and assignments.</sub></td>
   </tr>
   <tr>
-    <td width="50%">
-      <kbd>Node.js CLI development</kbd><br />
-      <sub>Building and publishing small, useful terminal tools.</sub>
-    </td>
-    <td width="50%">
-      <kbd>AI-assisted development</kbd><br />
-      <sub>Learning how AI tools can support — not replace — real understanding.</sub>
-    </td>
+    <td width="50%"><b>🔀 Adaptability</b><br /><sub>Comfortable moving between languages, tools and domains.</sub></td>
+    <td width="50%"><b>🔍 Technical curiosity</b><br /><sub>Wanting to understand how things work behind the scenes.</sub></td>
   </tr>
   <tr>
-    <td width="50%">
-      <kbd>English communication</kbd><br />
-      <sub>Speaking and writing clearly in professional conversations.</sub>
-    </td>
-    <td width="50%">
-      <kbd>Professional body language</kbd><br />
-      <sub>Posture, eye contact and confident presence in meetings.</sub>
-    </td>
+    <td width="50%" colspan="2"><b>🌱 Willingness to learn across different technology domains</b><br /><sub>Open to programming, databases, SAP, AI and everything in between.</sub></td>
   </tr>
 </table>
 
 ---
 
-## 🏁 Goals
+## 🏁 Career Goals
 
-### ⏱️ Short-term
+### ⏱️ Short-Term Goals
 
-- ✅ Strengthen **SAP ABAP fundamentals** — reports, internal tables, debugging and transaction codes
-- ✅ Build **practical SAP learning projects** from the list above
-- ✅ Improve **GitHub consistency** by committing and pushing regularly
-- ✅ Improve **spoken and written English** through daily practice
+- 🎯 Strengthen **SAP ABAP fundamentals**
+- 🎯 Improve **Python and SQL** skills
+- 🎯 Build practical **software-development projects**
+- 🎯 Learn professional **Git and GitHub workflows**
+- 🎯 Improve **English communication and presentation skills**
+- 🎯 Gain practical experience in **enterprise technology projects**
 
-### 🌏 Long-term
+### 🌏 Long-Term Goals
 
-- 🌟 Become a **confident software developer**
-- 🌟 **Contribute to enterprise projects** with real responsibility and quality
-- 🌟 **Combine SAP knowledge with AI and automation** to build smarter solutions
-- 🌟 Build **useful open-source tools** for the developer community
-- 🌟 **Help other early-career learners** who are starting the same way I did
-
----
-
-## 💡 Learning Philosophy
-
-<p align="center">
-  <img alt="Animated quote: I may be early in my journey, but I learn, practise and improve every day — Niraj Charpe" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1500&color=A855F7,00D9FF&center=true&vCenter=true&width=760&hide_border=true&lines=I+may+be+early+in+my+journey,+but+I+learn,+practise+and+improve+every+day!;—+Niraj+Charpe" width="760" />
-</p>
-
-<p align="center">
-  <b><i>“I may be early in my journey, but I learn, practise and improve every day.”</i></b><br />
-  <sub>— Niraj Charpe</sub>
-</p>
+- 🌟 Become a **capable and confident software developer**
+- 🌟 Contribute effectively to **enterprise software projects**
+- 🌟 Develop **strong knowledge of SAP technologies**
+- 🌟 Explore the integration of **AI and automation with enterprise systems**
+- 🌟 Create useful **open-source learning projects**
+- 🌟 Continuously improve **technical and professional capabilities**
 
 ---
 
 ## 🤝 Connect With Me
 
-> 🔌 **LinkedIn, email, npm and portfolio are still placeholders** — drop in your real links before publishing. The GitHub badge already points to your profile.
+> 🔌 Replace the four placeholders below with your real links — see `CUSTOMIZE.md`.
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img alt="LinkedIn profile — add your LinkedIn URL" src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&labelColor=161B22&logo=linkedin&logoColor=white" />
-  </a>
   <a href="https://github.com/niraj7780">
-    <img alt="GitHub profile for niraj7780" src="https://img.shields.io/badge/GitHub-follow-8B949E?style=flat-square&labelColor=161B22&logo=github&logoColor=white" />
+    <img alt="GitHub profile: github.com/niraj7780" src="https://img.shields.io/badge/GitHub-niraj7780-8B949E?style=flat-square&labelColor=161B22&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img alt="Email — add your email address" src="https://img.shields.io/badge/Email-say_hello-D14D57?style=flat-square&labelColor=161B22&logo=gmail&logoColor=white" />
+  <a href="YOUR_LINKEDIN_URL">
+    <img alt="LinkedIn profile — replace YOUR_LINKEDIN_URL" src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&labelColor=161B22&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.npmjs.com/~YOUR_NPM_USERNAME">
-    <img alt="npm profile — replace YOUR_NPM_USERNAME" src="https://img.shields.io/badge/npm-packages-CB3837?style=flat-square&labelColor=161B22&logo=npm&logoColor=white" />
+  <a href="mailto:YOUR_PROFESSIONAL_EMAIL">
+    <img alt="Professional email — replace YOUR_PROFESSIONAL_EMAIL" src="https://img.shields.io/badge/Email-say_hello-D14D57?style=flat-square&labelColor=161B22" />
   </a>
-  <a href="https://YOUR-PORTFOLIO-WEBSITE.example">
-    <img alt="Portfolio website — add your site URL" src="https://img.shields.io/badge/Portfolio-coming_soon-7C3AED?style=flat-square&labelColor=161B22" />
+  <a href="YOUR_PORTFOLIO_URL">
+    <img alt="Portfolio website — replace YOUR_PORTFOLIO_URL" src="https://img.shields.io/badge/Portfolio-website-7C3AED?style=flat-square&labelColor=161B22" />
+  </a>
+  <a href="YOUR_RESUME_URL">
+    <img alt="Resume — replace YOUR_RESUME_URL" src="https://img.shields.io/badge/Resume-download-00B8D9?style=flat-square&labelColor=161B22" />
   </a>
 </p>
 
 <p align="center">
-  <sub>💬 I am always happy to connect with fellow learners, mentors and developers. Feel free to say hello — I reply.</sub>
+  <sub>💬 I am happy to connect with learners, mentors and developers — feel free to say hello.</sub>
 </p>
 
 ---
 
-## 👀 Visitors & Community
+## 👀 Profile Visitor Counter
 
 <p align="center">
-  <img alt="Profile visitor counter for niraj7780" src="https://komarev.com/ghpvc/?username=niraj7780&style=flat-square&label=profile+views&color=00B8D9&labelColor=161B22" />
+  <img alt="Profile view counter for niraj7780" src="https://komarev.com/ghpvc/?username=niraj7780&style=flat-square&label=profile+views&color=00B8D9&labelColor=161B22" />
   <img alt="GitHub followers count for niraj7780" src="https://img.shields.io/github/followers/niraj7780?style=flat-square&labelColor=161B22&color=00B8D9&logo=github&logoColor=white" />
-  <img alt="GitHub stars received by niraj7780" src="https://img.shields.io/github/stars/niraj7780?style=flat-square&labelColor=161B22&color=A855F7&logo=github&logoColor=white" />
+  <img alt="Total stars received across repositories of niraj7780" src="https://img.shields.io/github/stars/niraj7780?style=flat-square&labelColor=161B22&color=A855F7&logo=github&logoColor=white" />
 </p>
 
 <p align="center">
-  <b>⭐ Like what you see? Let's connect and build something together.</b><br />
-  <sub>Follow along for new projects, SAP learning notes and small open-source tools — or just send a message and say hi.</sub>
-</p>
-
-<p align="center">
-  <sub>ℹ️ Live counts for <code>niraj7780</code>: profile views, followers and stars received.</sub>
+  <b>⭐ Thanks for stopping by — let's connect, collaborate and build something useful.</b><br />
+  <sub>Follow along for new projects, coding notes and open-source learning work.</sub>
 </p>
 
 ---
+
+<!-- ============================ 15. FOOTER ============================ -->
 
 <p align="center">
   <b>💙 Thanks for visiting my profile!</b><br />
-  <sub><b>Let's learn, build and grow together.</b></sub>
+  <sub><b>Learning, building and improving — one commit at a time.</b></sub>
 </p>
 
 <p align="center">

@@ -488,4 +488,4 @@ Approximately **10 months of technical and corporate training** after Class 12.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1128,50:0057B8,100:00E5FF&height=120&section=footer" alt="Animated waving footer graphic in blue, cyan and purple" width="100%" />
 </p>
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+![Profile Views](https://komarev.com/ghpvc/?username=niraj7780&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
